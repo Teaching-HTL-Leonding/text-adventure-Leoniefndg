@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "050.Cataacombs_of_paris/1.0.0": {
+        "runtime": {
+          "050.Cataacombs_of_paris.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "050.Cataacombs_of_paris/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\HTL\Htl cooding\050.Cataacombs_of_paris\bin\Debug\net7.0\050.Cataacombs_of_paris.exe
+C:\HTL\Htl cooding\050.Cataacombs_of_paris\bin\Debug\net7.0\050.Cataacombs_of_paris.deps.json
+C:\HTL\Htl cooding\050.Cataacombs_of_paris\bin\Debug\net7.0\050.Cataacombs_of_paris.runtimeconfig.json
+C:\HTL\Htl cooding\050.Cataacombs_of_paris\bin\Debug\net7.0\050.Cataacombs_of_paris.dll
+C:\HTL\Htl cooding\050.Cataacombs_of_paris\bin\Debug\net7.0\050.Cataacombs_of_paris.pdb
+C:\HTL\Htl cooding\050.Cataacombs_of_paris\obj\Debug\net7.0\050.Cataacombs_of_paris.csproj.AssemblyReference.cache
+C:\HTL\Htl cooding\050.Cataacombs_of_paris\obj\Debug\net7.0\050.Cataacombs_of_paris.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\Htl cooding\050.Cataacombs_of_paris\obj\Debug\net7.0\050.Cataacombs_of_paris.AssemblyInfoInputs.cache
+C:\HTL\Htl cooding\050.Cataacombs_of_paris\obj\Debug\net7.0\050.Cataacombs_of_paris.AssemblyInfo.cs
+C:\HTL\Htl cooding\050.Cataacombs_of_paris\obj\Debug\net7.0\050.Cataacombs_of_paris.csproj.CoreCompileInputs.cache
+C:\HTL\Htl cooding\050.Cataacombs_of_paris\obj\Debug\net7.0\050.Cataacombs_of_paris.dll
+C:\HTL\Htl cooding\050.Cataacombs_of_paris\obj\Debug\net7.0\refint\050.Cataacombs_of_paris.dll
+C:\HTL\Htl cooding\050.Cataacombs_of_paris\obj\Debug\net7.0\050.Cataacombs_of_paris.pdb
+C:\HTL\Htl cooding\050.Cataacombs_of_paris\obj\Debug\net7.0\050.Cataacombs_of_paris.genruntimeconfig.cache
+C:\HTL\Htl cooding\050.Cataacombs_of_paris\obj\Debug\net7.0\ref\050.Cataacombs_of_paris.dll
